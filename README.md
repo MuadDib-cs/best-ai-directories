@@ -10,6 +10,7 @@ The websites I end up visiting way too often when hunting for AI tools:
 - **[AI Tools Network](https://aitoolsnetwork.com/)**
 - **[Future Tool](https://www.futuretools.io/)**
 - **[TopAI.tools](https://topai.tools/top-100-ai-tools)**
+- **[300 AI Directories](https://300aidirectories.com/)**
 
 ---
 
