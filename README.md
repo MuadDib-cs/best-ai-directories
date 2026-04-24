@@ -51,7 +51,9 @@ Here are the companions many of us rely on daily—tools that have found their w
   Rapidly deploy projects and experiment with minimal configuration.
 - **[bolt.new](https://bolt.new/)**
   Quickly create new projects or documents with a single click.
-
+- **[MindMap AI](https://mindmapai.app/research-to-mindmap)**
+  AI-powered tool for organizing ideas, structuring research, and transforming content into visual mind maps.
+  
 ---
 
 ## Developer Tools & APIs
