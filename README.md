@@ -12,6 +12,7 @@ The websites I end up visiting way too often when hunting for AI tools:
 - **[TopAI.tools](https://topai.tools/top-100-ai-tools)**
 
 ---
+- [Nick Launches](https://nicklaunches.com/) - Launch platform for builders, AI startups, and SaaS founders to get discovered and earn a permanent dofollow backlink.
 
 ## Table of Contents
 
