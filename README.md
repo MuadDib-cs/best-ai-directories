@@ -5,6 +5,7 @@ I started putting together this list because I got tired of hunting through Twit
 ## **Best AI Directories**
 The websites I end up visiting way too often when hunting for AI tools:
 
+- **[AI Tools Radar](https://aitoolsradar.com/)** — A multilingual directory for discovering and comparing AI products, models, agent skills, and prompts.
 - **[There's An AI For That (TAAFT)](https://theresanaiforthat.com/)**
 - **[StackViv](https://stackviv.ai/)**
 - **[AI Tools Network](https://aitoolsnetwork.com/)**
